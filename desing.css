@@ -38,8 +38,6 @@ flex-direction: row;}
 header p{display: flex;;
 flex-direction: row;}
 body {background-color: white ;}
-.fundo{margin: 0 25px;
-background-color:white;}
 
 main p{font: size 300px;}
 
@@ -55,6 +53,8 @@ flex-direction: row;}
 
 .shop{background-color: rgb(40, 187, 40);}
 
-.product{display:flex;
-flex-direction: column;
-flex:1}
+.product1{display:flex;
+flex-direction: row;
+flex:1;
+padding-left:100px ;}
+.product2{padding-left: 100px;}
